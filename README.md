@@ -1,3 +1,3 @@
 # Personal Repo
 
-## Testing
+## Here is where I store my code/projects

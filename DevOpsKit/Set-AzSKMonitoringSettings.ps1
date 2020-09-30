@@ -1,0 +1,1 @@
+Set-AzSKMonitoringSettings -WorkspaceId 'a27650ad-8cc2-4042-8504-f0d5239b9303' -SharedKey 'Dis+g2Xt2WxbcZHO6fto91Qdc2jITncV+krcJ9E9Ak1Ho//0emUtJs1vWp3bPdDfuHgf7gnGXR19m6VKnRSyxw=='

@@ -1,4 +1,4 @@
-# $Credential = Get-Credential # not using this as not providing modern auth
+# $Credential = Get-Credential # not using this as not providing modern authentication
 # Clear-AzContext # if changing account/tenant for Azure from last session
 # Set-AzContext -SubscriptionId '' # as required after Connect-AzAccount
 

@@ -1,7 +1,7 @@
-$SubscriptionId = 'b61f3a7a-3e41-472e-931d-f8338f35ffff'
+$SubscriptionId = '504ce038-8d89-4cb7-9bdc-511f95271886'
 $ResourceGroupNames = '*' # Use 'rgName1,rgName2,…etc' or You can also use '*' to specify all RGs
-$LAWSId = 'a27650ad-8cc2-4042-8504-f0d5239b9303'
-$LAWSSharedKey = 'Dis+g2Xt2WxbcZHO6fto91Qdc2jITncV+krcJ9E9Ak1Ho//0emUtJs1vWp3bPdDfuHgf7gnGXR19m6VKnRSyxw=='
+$LAWSId = '4fad24b6-f881-4d74-9f1a-8121467e588e'
+$LAWSSharedKey = 'CGgr0TBskox/fLnf0qGdAbLkqkIJq3Xy0kNFOXs9MlqAH+q0zZT+WMZGTjAWOWuci4ul7pEmTpKTCK0YvSS2VA=='
 
 Install-AzSKContinuousAssurance -SubscriptionId $SubscriptionId `
                 -ResourceGroupNames $ResourceGroupNames `
